@@ -1,1 +1,1 @@
-# skillmerism.github.io
+# skillmerism
