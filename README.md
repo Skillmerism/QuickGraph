@@ -1,9 +1,6 @@
 # QuickGraph!
  QuickGraph is a shiny app designed to make visualizing, analyzing, and graphing large CSV files easier for new R users. 
- To get started, please run the following code in R: 
-   **install.packages("shiny") 
-   library(shiny) 
-   runGitHub(repo = "QuickGraph", username = "Skillmerism", ref = "main") **
+ To get started, please run the RUN.R file. 
  Notes: 
    Application should open immediately upon running the code, no working directory or other packages needed. 
    Only CSV files are accepted. 
